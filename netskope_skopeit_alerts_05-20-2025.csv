@@ -1,0 +1,1001 @@
+"Timestamp (UTC) Seconds","Time (GMT)","Name","Alert Type","Action","Activity","User","Application","Instance ID","URL","Object","Object Type"
+1747735839,05/20/2025 10:10:39,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747735478,05/20/2025 10:04:38,Atlan_Default Allow,policy,alert,Download,suchit.sancheti@atlan.com,GitHub,open-webui,raw.githubusercontent.com/open-webui/open-webui/main/demo.gif,demo.gif,File
+1747735442,05/20/2025 10:04:02,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747735441,05/20/2025 10:04:01,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747735040,05/20/2025 09:57:20,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747734452,05/20/2025 09:47:32,Atlan_Default Allow,policy,alert,View,prateek.mishra@atlan.com,GitHub,sap,github.com/SAP/image-mapper/blob/ca53d6fbc7f539564b614df0ea79e80fe29d0e71/.local/k8s-resources.yaml,k8s-resources.yaml,File
+1747734388,05/20/2025 09:46:28,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747733466,05/20/2025 09:31:06,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747733464,05/20/2025 09:31:04,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747733239,05/20/2025 09:27:19,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747732820,05/20/2025 09:20:20,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,atlanhq,raw.githubusercontent.com/atlanhq/atlan-alerts/refs/heads/main/alerting/rules/NOC/kubernetes-alerts.yaml,kubernetes-alerts.yaml,File
+1747732815,05/20/2025 09:20:15,Atlan_Default Allow,policy,alert,View,aayush.sarva@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-alerts/blob/main/alerting/rules/NOC/kubernetes-alerts.yaml,kubernetes-alerts.yaml,File
+1747732453,05/20/2025 09:14:13,Atlan_Default Allow,policy,alert,View,harsh.vaid@atlan.com,GitHub,atlanhq,github.com/atlanhq/IT-Automation/blob/Jira-Tech-Tool-Field/jira-techtoolfield-automation/lambda_function.py,lambda_function.py,File
+1747732430,05/20/2025 09:13:50,Atlan_Default Allow,policy,alert,Create,harsh.vaid@atlan.com,GitHub,atlanhq,github.com/atlanhq/IT-Automation/create/Jira-Tech-Tool-Field,Add Tech Tool Jira/zap.json,File
+1747732321,05/20/2025 09:12:01,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,great-expectations,raw.githubusercontent.com/great-expectations/great_expectations/develop/docs/docusaurus/static/img/gx-mark-160.png,gx-mark-160.png,File
+1747732239,05/20/2025 09:10:39,Atlan_Default Allow,policy,alert,View,harsh.vaid@atlan.com,GitHub,atlanhq,github.com/atlanhq/IT-Automation/compare/Jira-Tech-Tool-Field,Jira-Tech-Tool-Field,Diff
+1747732235,05/20/2025 09:10:35,Atlan_Default Allow,policy,alert,Post,harsh.vaid@atlan.com,GitHub,atlanhq,github.com/atlanhq/IT-Automation/pull/1/comment,,Comment
+1747732225,05/20/2025 09:10:25,Atlan_Default Allow,policy,alert,Create,harsh.vaid@atlan.com,GitHub,atlanhq,github.com/atlanhq/IT-Automation/pull/create,,File
+1747732223,05/20/2025 09:10:23,Atlan_Default Allow,policy,alert,View,harsh.vaid@atlan.com,GitHub,atlanhq,github.com/atlanhq/IT-Automation/compare/file-list,file-list,Diff
+1747732221,05/20/2025 09:10:21,Atlan_Default Allow,policy,alert,View,harsh.vaid@atlan.com,GitHub,atlanhq,github.com/atlanhq/IT-Automation/compare/Jira-Tech-Tool-Field,Jira-Tech-Tool-Field,Diff
+1747732196,05/20/2025 09:09:56,Atlan_Default Allow,policy,alert,View,aayush.sarva@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-alerts/blob/9c2bbbd454b6cbc57c78d4c8ce54f28a8e086466/alerting/rules/NOC/kubernetes-alerts.yaml,kubernetes-alerts.yaml,File
+1747732192,05/20/2025 09:09:52,Atlan_Default Allow,policy,alert,View,harsh.vaid@atlan.com,GitHub,atlanhq,github.com/atlanhq/IT-Automation/compare/file-list,file-list,Diff
+1747732191,05/20/2025 09:09:51,Atlan_Default Allow,policy,alert,View,harsh.vaid@atlan.com,GitHub,atlanhq,github.com/atlanhq/IT-Automation/compare/Jira-Tech-Tool-Field,Jira-Tech-Tool-Field,Diff
+1747732182,05/20/2025 09:09:42,Atlan_Default Allow,policy,alert,Create,harsh.vaid@atlan.com,GitHub,atlanhq,github.com/atlanhq/IT-Automation/create/Jira-Tech-Tool-Field, jira-techtoolfield-automation/lambda_function.py,File
+1747731998,05/20/2025 09:06:38,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,great-expectations,raw.githubusercontent.com/great-expectations/great_expectations/develop/docs/docusaurus/static/img/gx-mark-160.png,gx-mark-160.png,File
+1747731817,05/20/2025 09:03:37,Atlan_Default Allow,policy,alert,View,harsh.vaid@atlan.com,GitHub,atlanhq,github.com/atlanhq/IT-Automation/blob/NetSkope-Zero-touch-installation/Installation-script/Netskope Client Installation [Automated].sh,Netskope Client Installation [Automated].sh,File
+1747731815,05/20/2025 09:03:35,Atlan_Default Allow,policy,alert,Edit,harsh.vaid@atlan.com,GitHub,atlanhq,github.com/atlanhq/IT-Automation/tree-save/NetSkope-Zero-touch-installation/Installation-script/Netskope Client Installation [Automated].sh,Installation-script/Netskope Client Installation [Automated].sh,File
+1747731752,05/20/2025 09:02:32,Atlan_Default Allow,policy,alert,View,harsh.vaid@atlan.com,GitHub,atlanhq,github.com/atlanhq/IT-Automation/blob/NetSkope-Zero-touch-installation/Installation-script/Netskope Client Installation [Automated].sh,Netskope Client Installation [Automated].sh,File
+1747731688,05/20/2025 09:01:28,Atlan_Default Allow,policy,alert,View,aayush.sarva@atlan.com,GitHub,atlanhq,github.com/atlanhq/hul-release/blob/047a5a3278ebd4e07458f12f0e0ac35ab090baee/stable/kube-prometheus-stack/templates/prometheus/rules-1.14/hul.yaml,hul.yaml,File
+1747731523,05/20/2025 08:58:43,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747731523,05/20/2025 08:58:43,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747731424,05/20/2025 08:57:04,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747731424,05/20/2025 08:57:04,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747731147,05/20/2025 08:52:27,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,great-expectations,raw.githubusercontent.com/great-expectations/great_expectations/develop/docs/docusaurus/static/img/gx-mark-160.png,gx-mark-160.png,File
+1747731010,05/20/2025 08:50:10,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747731009,05/20/2025 08:50:09,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747730789,05/20/2025 08:46:29,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747730754,05/20/2025 08:45:54,Atlan_Default Allow,policy,alert,Invite,anurag.sinha@atlan.com,GitHub,atlanhq,github.com/atlanhq/platform-temporal-workflows/members,,User
+1747729880,05/20/2025 08:31:20,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,great-expectations,raw.githubusercontent.com/great-expectations/great_expectations/develop/docs/docusaurus/static/img/gx-mark-160.png,gx-mark-160.png,File
+1747729379,05/20/2025 08:22:59,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/blob/main/samples/packages/tests-cleanup/src/main/kotlin/TestsCleanup.kt,TestsCleanup.kt,File
+1747729297,05/20/2025 08:21:37,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747729289,05/20/2025 08:21:29,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747729288,05/20/2025 08:21:28,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747729284,05/20/2025 08:21:24,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,jetbrains,raw.githubusercontent.com/JetBrains/web-types/master/packages/registry.json,registry.json,File
+1747729141,05/20/2025 08:19:01,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,great-expectations,raw.githubusercontent.com/great-expectations/great_expectations/develop/docs/docusaurus/static/img/gx-mark-160.png,gx-mark-160.png,File
+1747728568,05/20/2025 08:09:28,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-python/blob/main/pyatlan/model/assets/custom_entity.py,custom_entity.py,File
+1747727403,05/20/2025 07:50:03,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747727013,05/20/2025 07:43:33,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747726784,05/20/2025 07:39:44,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747725170,05/20/2025 07:12:50,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747725169,05/20/2025 07:12:49,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747724983,05/20/2025 07:09:43,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747724902,05/20/2025 07:08:22,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747723181,05/20/2025 06:39:41,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747723041,05/20/2025 06:37:21,Atlan_Default Allow,policy,alert,View,suchit.sancheti@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-infrastructure/blob/main/functions/regions/main.py,main.py,File
+1747722985,05/20/2025 06:36:25,Atlan_Default Allow,policy,alert,View,suchit.sancheti@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-infrastructure/blob/main/functions/regions/main.py,main.py,File
+1747722349,05/20/2025 06:25:49,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747722348,05/20/2025 06:25:48,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747722339,05/20/2025 06:25:39,Atlan_Default Allow,policy,alert,View,suchit.sancheti@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common/blob/f436e7586ffbabe8e49626017dbb0bd21d757c2b/platform/terraform-config/multitenant-entity-infra/tenant-eks/iam.tf,iam.tf,File
+1747721824,05/20/2025 06:17:04,Atlan_Default Allow,policy,alert,Invite,anurag.sinha@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-query-intelligence-app/members,,User
+1747721647,05/20/2025 06:14:07,Atlan_Default Allow,policy,alert,Invite,anurag.sinha@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-publish-app/members,,User
+1747721380,05/20/2025 06:09:40,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747721302,05/20/2025 06:08:22,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747720372,05/20/2025 05:52:52,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747720371,05/20/2025 05:52:51,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747719579,05/20/2025 05:39:39,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747719519,05/20/2025 05:38:39,Atlan_Default Allow,policy,alert,View,anbarasan.thangapalam@atlan.com,GitHub,embedded-link,www.youtube.com/embed/EPyyyB23NUU,Introducing the GitHub Copilot coding agent,Video
+1747719032,05/20/2025 05:30:32,Atlan-Personal-Login-Alert,policy,alert,Login Successful,anbarasan.thangapalam@atlan.com,GitHub,,github.com/session,anbarasantr@gmail.com,User
+1747718395,05/20/2025 05:19:55,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747718394,05/20/2025 05:19:54,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747717519,05/20/2025 05:05:19,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747716984,05/20/2025 04:56:24,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747716984,05/20/2025 04:56:24,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747716528,05/20/2025 04:48:48,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747716292,05/20/2025 04:44:52,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747716291,05/20/2025 04:44:51,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747715763,05/20/2025 04:36:03,Atlan_Default Allow,policy,alert,Login Successful,rajeev@atlan.com,GitHub,,github.com/session,rajeev@atlan.com,User
+1747715121,05/20/2025 04:25:21,Atlan_Default Allow,policy,alert,Download,suchit.sancheti@atlan.com,GitHub,plandex-ai,raw.githubusercontent.com/plandex-ai/plandex/main/images/plandex-v2-yt.png,plandex-v2-yt.png,File
+1747715121,05/20/2025 04:25:21,Atlan_Default Allow,policy,alert,Download,suchit.sancheti@atlan.com,GitHub,plandex-ai,raw.githubusercontent.com/plandex-ai/plandex/main/images/plandex-workflow.png,plandex-workflow.png,File
+1747715121,05/20/2025 04:25:21,Atlan_Default Allow,policy,alert,Download,suchit.sancheti@atlan.com,GitHub,plandex-ai,raw.githubusercontent.com/plandex-ai/plandex/main/images/plandex-browser-debug-yt.png,plandex-browser-debug-yt.png,File
+1747715121,05/20/2025 04:25:21,Atlan_Default Allow,policy,alert,Download,suchit.sancheti@atlan.com,GitHub,plandex-ai,raw.githubusercontent.com/plandex-ai/plandex/main/images/plandex-logo-light-v2.png,plandex-logo-light-v2.png,File
+1747715109,05/20/2025 04:25:09,Atlan_Default Allow,policy,alert,Download,suchit.sancheti@atlan.com,GitHub,open-webui,raw.githubusercontent.com/open-webui/open-webui/main/demo.gif,demo.gif,File
+1747714400,05/20/2025 04:13:20,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747714399,05/20/2025 04:13:19,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747714237,05/20/2025 04:10:37,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747714235,05/20/2025 04:10:35,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747713331,05/20/2025 03:55:31,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747713330,05/20/2025 03:55:30,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747712929,05/20/2025 03:48:49,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747712434,05/20/2025 03:40:34,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747712420,05/20/2025 03:40:20,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747711519,05/20/2025 03:25:19,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747711514,05/20/2025 03:25:14,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747710624,05/20/2025 03:10:24,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747710599,05/20/2025 03:09:59,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747710519,05/20/2025 03:08:39,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747709744,05/20/2025 02:55:44,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747709684,05/20/2025 02:54:44,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747709684,05/20/2025 02:54:44,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747709328,05/20/2025 02:48:48,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/HEAD/community-plugin-deprecation.json,community-plugin-deprecation.json,File
+1747709328,05/20/2025 02:48:48,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747706860,05/20/2025 02:07:40,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747706682,05/20/2025 02:04:42,Atlan_Default Allow,policy,alert,Download,suchit.sancheti@atlan.com,GitHub,,private-user-images.githubusercontent.com/251288/270870010-693d18b5-01de-4a3b-b47b-96347b84f610.png,,File
+1747706681,05/20/2025 02:04:41,Atlan_Default Allow,policy,alert,Download,suchit.sancheti@atlan.com,GitHub,,private-user-images.githubusercontent.com/251288/270870010-693d18b5-01de-4a3b-b47b-96347b84f610.png,,File
+1747699727,05/20/2025 00:08:47,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747699340,05/20/2025 00:02:20,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747698795,05/19/2025 23:53:15,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747698791,05/19/2025 23:53:11,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747698683,05/19/2025 23:51:23,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747698672,05/19/2025 23:51:12,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747698671,05/19/2025 23:51:11,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747697977,05/19/2025 23:39:37,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747697976,05/19/2025 23:39:36,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747695288,05/19/2025 22:54:48,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747691484,05/19/2025 21:51:24,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747687883,05/19/2025 20:51:23,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747683428,05/19/2025 19:37:08,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747682249,05/19/2025 19:17:29,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747679827,05/19/2025 18:37:07,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747678871,05/19/2025 18:21:11,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747678869,05/19/2025 18:21:09,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747678789,05/19/2025 18:19:49,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747678780,05/19/2025 18:19:40,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747677875,05/19/2025 18:04:35,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747677713,05/19/2025 18:01:53,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/marketplace-packages/blob/master/deployment/TenantConfigDeployment.pkl,TenantConfigDeployment.pkl,File
+1747677709,05/19/2025 18:01:49,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/marketplace-packages/blob/master/deployment/DeploymentConfigMap.pkl,DeploymentConfigMap.pkl,File
+1747677695,05/19/2025 18:01:35,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/marketplace-packages/blob/master/deployment/Deployment.pkl,Deployment.pkl,File
+1747677625,05/19/2025 18:00:25,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/marketplace-packages/blob_excerpt/f4ce96f4ebd183b3a6e0fa4a5a4e71990971b6e1,,File
+1747677623,05/19/2025 18:00:23,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/marketplace-packages/blob_excerpt/f4ce96f4ebd183b3a6e0fa4a5a4e71990971b6e1,,File
+1747677608,05/19/2025 18:00:08,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747677593,05/19/2025 17:59:53,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/marketplace-packages/blob_excerpt/0cca7406effe3e40accada05f99d10356e6b4156,,File
+1747677591,05/19/2025 17:59:51,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/marketplace-packages/blob_excerpt/0cca7406effe3e40accada05f99d10356e6b4156,,File
+1747677590,05/19/2025 17:59:50,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/marketplace-packages/blob_excerpt/0cca7406effe3e40accada05f99d10356e6b4156,,File
+1747677589,05/19/2025 17:59:49,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/marketplace-packages/blob_excerpt/0cca7406effe3e40accada05f99d10356e6b4156,,File
+1747677589,05/19/2025 17:59:49,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/marketplace-packages/blob_excerpt/0cca7406effe3e40accada05f99d10356e6b4156,,File
+1747677587,05/19/2025 17:59:47,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/marketplace-packages/blob_excerpt/0cca7406effe3e40accada05f99d10356e6b4156,,File
+1747677586,05/19/2025 17:59:46,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/marketplace-packages/blob_excerpt/0cca7406effe3e40accada05f99d10356e6b4156,,File
+1747677108,05/19/2025 17:51:48,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747676228,05/19/2025 17:37:08,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747672786,05/19/2025 16:39:46,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747672774,05/19/2025 16:39:34,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747672627,05/19/2025 16:37:07,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747672310,05/19/2025 16:31:50,Atlan_Default Allow,policy,alert,Download,balakrishnan.r@atlan.com,GitHub,schemastore,raw.githubusercontent.com/SchemaStore/schemastore/master/src/api/json/catalog.json,catalog.json,File
+1747671990,05/19/2025 16:26:30,Atlan_Default Allow,policy,alert,View,balakrishnan.r@atlan.com,GitHub,atlanhq,github.com/atlanhq/marketplace-packages/blob/e28af96cab06d35f004bdb2c9f06fc0f5fe8819c/packages/csa/assets-export/package.json,package.json,File
+1747671952,05/19/2025 16:25:52,Atlan_Default Allow,policy,alert,View,balakrishnan.r@atlan.com,GitHub,atlanhq,github.com/atlanhq/marketplace-packages/blob/e28af96cab06d35f004bdb2c9f06fc0f5fe8819c/packages/csa/assets-export/package.json,package.json,File
+1747671871,05/19/2025 16:24:31,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747671866,05/19/2025 16:24:26,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747671577,05/19/2025 16:19:37,Atlan_Default Allow,policy,alert,Download,balakrishnan.r@atlan.com,GitHub,schemastore,raw.githubusercontent.com/SchemaStore/schemastore/master/src/api/json/catalog.json,catalog.json,File
+1747670978,05/19/2025 16:09:38,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747670971,05/19/2025 16:09:31,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747670550,05/19/2025 16:02:30,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747670078,05/19/2025 15:54:38,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747669533,05/19/2025 15:45:33,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747669532,05/19/2025 15:45:32,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747669164,05/19/2025 15:39:24,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747669164,05/19/2025 15:39:24,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747669027,05/19/2025 15:37:07,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747668743,05/19/2025 15:32:23,Atlan_Default Allow,policy,alert,Download,balakrishnan.r@atlan.com,GitHub,,objects.githubusercontent.com/github-production-release-asset-2e65be/265079366/d13b1a6b-0abc-48cc-8987-cf7cfc880700,loft-darwin-amd64,File
+1747668657,05/19/2025 15:30:57,Atlan_Default Allow,policy,alert,Download,balakrishnan.r@atlan.com,GitHub,,objects.githubusercontent.com/github-production-release-asset-2e65be/265079366/d13b1a6b-0abc-48cc-8987-cf7cfc880700,loft-darwin-amd64,File
+1747668250,05/19/2025 15:24:10,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747668243,05/19/2025 15:24:03,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747667715,05/19/2025 15:15:15,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,play-with-docker,user-images.githubusercontent.com/78981416/214677895-b5497a9f-b78c-4c26-8ef3-880594c67e7a.png,,File
+1747665429,05/19/2025 14:37:09,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747663757,05/19/2025 14:09:17,Atlan_Default Allow,policy,alert,Download,anbarasan.thangapalam@atlan.com,GitHub,acryldata,raw.githubusercontent.com/acryldata/dbt-impact-action/main/impact-analysis-screenshot.png,impact-analysis-screenshot.png,File
+1747663741,05/19/2025 14:09:01,Atlan_Default Allow,policy,alert,Download,yatin@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/select-mcp-servers.png,select-mcp-servers.png,File
+1747663741,05/19/2025 14:09:01,Atlan_Default Allow,policy,alert,Download,yatin@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/install-cline-extension.png,install-cline-extension.png,File
+1747663149,05/19/2025 13:59:09,Atlan_Default Allow,policy,alert,Create,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/pull/create,,File
+1747663141,05/19/2025 13:59:01,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/compare/file-list,file-list,Diff
+1747663140,05/19/2025 13:59:00,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/compare/dependencies,dependencies,Diff
+1747662995,05/19/2025 13:56:35,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747662994,05/19/2025 13:56:34,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747662070,05/19/2025 13:41:10,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747662064,05/19/2025 13:41:04,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,jetbrains,raw.githubusercontent.com/JetBrains/web-types/master/packages/registry.json,registry.json,File
+1747661827,05/19/2025 13:37:07,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747661672,05/19/2025 13:34:32,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747661672,05/19/2025 13:34:32,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747661667,05/19/2025 13:34:27,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747661018,05/19/2025 13:23:38,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747661017,05/19/2025 13:23:37,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747660751,05/19/2025 13:19:11,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,great-expectations,raw.githubusercontent.com/great-expectations/great_expectations/develop/docs/docusaurus/static/img/gx-mark-160.png,gx-mark-160.png,File
+1747660361,05/19/2025 13:12:41,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747660048,05/19/2025 13:07:28,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,great-expectations,raw.githubusercontent.com/great-expectations/great_expectations/develop/docs/docusaurus/static/img/gx-mark-160.png,gx-mark-160.png,File
+1747659795,05/19/2025 13:03:15,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747659785,05/19/2025 13:03:05,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747659708,05/19/2025 13:01:48,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,great-expectations,raw.githubusercontent.com/great-expectations/great_expectations/develop/docs/docusaurus/static/img/gx-mark-160.png,gx-mark-160.png,File
+1747659250,05/19/2025 12:54:10,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,great-expectations,raw.githubusercontent.com/great-expectations/great_expectations/develop/docs/docusaurus/static/img/gx-mark-160.png,gx-mark-160.png,File
+1747658934,05/19/2025 12:48:54,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,great-expectations,raw.githubusercontent.com/great-expectations/great_expectations/develop/docs/docusaurus/static/img/gx-mark-160.png,gx-mark-160.png,File
+1747658895,05/19/2025 12:48:15,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747658892,05/19/2025 12:48:12,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747658337,05/19/2025 12:38:57,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747658336,05/19/2025 12:38:56,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747657991,05/19/2025 12:33:11,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747657984,05/19/2025 12:33:04,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747657345,05/19/2025 12:22:25,Fallback Action,policy,alert,Download,mahesh.thimmaiah@atlan.com,GitHub,,objects.githubusercontent.com/github-production-release-asset-2e65be/215263010/31f73330-9d41-4871-9415-6c5065c11c74,codeql-osx64.zip,File
+1747657345,05/19/2025 12:22:25,Atlan_Default Allow,policy,alert,Download,mahesh.thimmaiah@atlan.com,GitHub,,objects.githubusercontent.com/github-production-release-asset-2e65be/215263010/31f73330-9d41-4871-9415-6c5065c11c74,codeql-osx64.zip,File
+1747657091,05/19/2025 12:18:11,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747657091,05/19/2025 12:18:11,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747656761,05/19/2025 12:12:41,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747656360,05/19/2025 12:06:00,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747656359,05/19/2025 12:05:59,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747656185,05/19/2025 12:03:05,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747656182,05/19/2025 12:03:02,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747656133,05/19/2025 12:02:13,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,great-expectations,raw.githubusercontent.com/great-expectations/great_expectations/develop/docs/docusaurus/static/img/gx-mark-160.png,gx-mark-160.png,File
+1747655310,05/19/2025 11:48:30,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,great-expectations,raw.githubusercontent.com/great-expectations/great_expectations/develop/docs/docusaurus/static/img/gx-mark-160.png,gx-mark-160.png,File
+1747655285,05/19/2025 11:48:05,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747655278,05/19/2025 11:47:58,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747654762,05/19/2025 11:39:22,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,great-expectations,raw.githubusercontent.com/great-expectations/great_expectations/develop/docs/docusaurus/static/img/gx-mark-160.png,gx-mark-160.png,File
+1747654460,05/19/2025 11:34:20,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,great-expectations,raw.githubusercontent.com/great-expectations/great_expectations/develop/docs/docusaurus/static/img/gx-mark-160.png,gx-mark-160.png,File
+1747654379,05/19/2025 11:32:59,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747654376,05/19/2025 11:32:56,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747654277,05/19/2025 11:31:17,Atlan_Default Allow,policy,alert,Create,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/releases/tag/untagged-f22edc0edf5de6aae908,"dependencies,v5.2.0",Release
+1747654228,05/19/2025 11:30:28,Atlan_Default Allow,policy,alert,Create,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/pull/create,,File
+1747654227,05/19/2025 11:30:27,Atlan_Default Allow,policy,alert,Post,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/issues/new/show_partial,,Comment
+1747654223,05/19/2025 11:30:23,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/compare/file-list,file-list,Diff
+1747654221,05/19/2025 11:30:21,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/compare/dependencies,dependencies,Diff
+1747654174,05/19/2025 11:29:34,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747654173,05/19/2025 11:29:33,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747654097,05/19/2025 11:28:17,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,great-expectations,raw.githubusercontent.com/great-expectations/great_expectations/develop/docs/docusaurus/static/img/gx-mark-160.png,gx-mark-160.png,File
+1747653558,05/19/2025 11:19:18,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,great-expectations,raw.githubusercontent.com/great-expectations/great_expectations/develop/docs/docusaurus/static/img/gx-mark-160.png,gx-mark-160.png,File
+1747653477,05/19/2025 11:17:57,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747653476,05/19/2025 11:17:56,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747653161,05/19/2025 11:12:41,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747652578,05/19/2025 11:02:58,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747652575,05/19/2025 11:02:55,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747652197,05/19/2025 10:56:37,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747652196,05/19/2025 10:56:36,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747651838,05/19/2025 10:50:38,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747651676,05/19/2025 10:47:56,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747651670,05/19/2025 10:47:50,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747651211,05/19/2025 10:40:11,Atlan_Default Allow,policy,alert,View,suchit.sancheti@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan/blob/669d6ca8dcb69b6c27d89a1940b5b0f244b9e070/charts/templates/temporal/add-timeouts-postgres-job-v1.yaml,add-timeouts-postgres-job-v1.yaml,File
+1747650770,05/19/2025 10:32:50,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747650770,05/19/2025 10:32:50,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747650749,05/19/2025 10:32:29,Atlan_Default Allow,policy,alert,Create,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/releases,v5.2.0,Release
+1747650600,05/19/2025 10:30:00,Atlan_Default Allow,policy,alert,View,suchit.sancheti@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-infrastructure/blob/main/functions/xcustomervpcs/rt.py,rt.py,File
+1747650221,05/19/2025 10:23:41,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747650219,05/19/2025 10:23:39,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747649870,05/19/2025 10:17:50,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747649561,05/19/2025 10:12:41,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747648968,05/19/2025 10:02:48,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747648959,05/19/2025 10:02:39,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747648244,05/19/2025 09:50:44,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747648242,05/19/2025 09:50:42,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747648063,05/19/2025 09:47:43,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747648059,05/19/2025 09:47:39,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747647164,05/19/2025 09:32:44,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747647154,05/19/2025 09:32:34,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747646267,05/19/2025 09:17:47,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747646266,05/19/2025 09:17:46,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747646254,05/19/2025 09:17:34,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747646249,05/19/2025 09:17:29,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747646151,05/19/2025 09:15:51,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-docs/blob/main/docs/platform/references/tenant-offboarding.md,tenant-offboarding.md,File
+1747646149,05/19/2025 09:15:49,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-docs/blob/main/docs/platform/references/tenant-monitoring.md,tenant-monitoring.md,File
+1747646130,05/19/2025 09:15:30,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,matakanobu,private-user-images.githubusercontent.com/201724054/437477917-850444f9-beff-416b-b5fe-71a47d98a544.png,,File
+1747646101,05/19/2025 09:15:01,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-docs/blob/main/docs/platform/concepts/data-and-metadata-persistence.md,data-and-metadata-persistence.md,File
+1747646090,05/19/2025 09:14:50,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-docs/blob/main/docs/platform/references/how-are-resources-isolated.md,how-are-resources-isolated.md,File
+1747645966,05/19/2025 09:12:46,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-docs/blob/main/docs/platform/references/atlan-architecture.md,atlan-architecture.md,File
+1747645961,05/19/2025 09:12:41,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747644290,05/19/2025 08:44:50,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747644288,05/19/2025 08:44:48,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747644247,05/19/2025 08:44:07,Atlan_Default Allow,policy,alert,Post,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/issues/new/show_partial,,Comment
+1747644247,05/19/2025 08:44:07,Atlan_Default Allow,policy,alert,Create,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/pull/create,,File
+1747644241,05/19/2025 08:44:01,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/compare/file-list,file-list,Diff
+1747644239,05/19/2025 08:43:59,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/compare/main...dependencies,main...dependencies,Diff
+1747644233,05/19/2025 08:43:53,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/compare/main...dependence,main...dependence,Diff
+1747644233,05/19/2025 08:43:53,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/compare/main...main,main...main,Diff
+1747644228,05/19/2025 08:43:48,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/compare,Accept,Diff
+1747643458,05/19/2025 08:30:58,Atlan_Default Allow,policy,alert,Create,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/pull/create,,File
+1747643455,05/19/2025 08:30:55,Atlan_Default Allow,policy,alert,Post,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/issues/new/show_partial,,Comment
+1747643449,05/19/2025 08:30:49,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/compare/file-list,file-list,Diff
+1747643448,05/19/2025 08:30:48,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/compare/dependencies,dependencies,Diff
+1747643416,05/19/2025 08:30:16,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747642989,05/19/2025 08:23:09,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747642988,05/19/2025 08:23:08,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747642313,05/19/2025 08:11:53,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747642311,05/19/2025 08:11:51,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747641584,05/19/2025 07:59:44,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747640300,05/19/2025 07:38:20,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747640299,05/19/2025 07:38:19,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747638323,05/19/2025 07:05:23,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747638322,05/19/2025 07:05:22,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747637727,05/19/2025 06:55:27,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747637095,05/19/2025 06:44:55,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747637053,05/19/2025 06:44:13,Atlan_Default Allow,policy,alert,Download,mahesh.thimmaiah@atlan.com,GitHub,goharbor,raw.githubusercontent.com/goharbor/website/master/docs/img/readme/bell-outline-badged.svg,bell-outline-badged.svg,File
+1747637053,05/19/2025 06:44:13,Atlan_Default Allow,policy,alert,Download,mahesh.thimmaiah@atlan.com,GitHub,goharbor,raw.githubusercontent.com/goharbor/website/master/docs/img/readme/harbor_logo.png,harbor_logo.png,File
+1747636970,05/19/2025 06:42:50,Atlan-Personal-Login-Block,policy,block,Login Attempt,gopal@atlan.com,GitHub,,github.com/10e52ffc39cecdb7185ca74abf0171eac107be441ee93c904e371e25801d13a5/a,oss-audit,
+1747636966,05/19/2025 06:42:46,Atlan-Personal-Login-Block,policy,block,Login Attempt,gopal@atlan.com,GitHub,,github.com/session,oss-audit,User
+1747636953,05/19/2025 06:42:33,Atlan-Personal-Login-Block,policy,block,Login Attempt,gopal@atlan.com,GitHub,,github.com/10e52ffc39cecdb7185ca74abf0171eac107be441ee93c904e371e25801d13a5/a,oss-audit,
+1747636950,05/19/2025 06:42:30,Atlan-Personal-Login-Block,policy,block,Login Attempt,gopal@atlan.com,GitHub,,github.com/session,oss-audit,User
+1747636837,05/19/2025 06:40:37,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747636827,05/19/2025 06:40:27,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747636346,05/19/2025 06:32:26,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747636345,05/19/2025 06:32:25,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747636217,05/19/2025 06:30:17,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,vinayak-mehta,raw.githubusercontent.com/vinayak-mehta/conrad/master/docs/_static/show.png,show.png,File
+1747636217,05/19/2025 06:30:17,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,vinayak-mehta,raw.githubusercontent.com/vinayak-mehta/conrad/master/docs/_static/show-name.png,show-name.png,File
+1747636217,05/19/2025 06:30:17,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,vinayak-mehta,raw.githubusercontent.com/vinayak-mehta/conrad/master/docs/_static/show-tag.png,show-tag.png,File
+1747636217,05/19/2025 06:30:17,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,vinayak-mehta,raw.githubusercontent.com/vinayak-mehta/conrad/master/docs/_static/show-date.png,show-date.png,File
+1747635922,05/19/2025 06:25:22,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747635294,05/19/2025 06:14:54,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747635234,05/19/2025 06:13:54,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747635033,05/19/2025 06:10:33,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747635022,05/19/2025 06:10:22,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747634437,05/19/2025 06:00:37,Atlan_Default Allow,policy,alert,View,chander.pal@atlan.com,GitHub,azure,api.github.com/repos/Azure/azure-quickstart-templates/contents,,Repository
+1747634397,05/19/2025 05:59:57,Atlan_Default Allow,policy,alert,View,harsh.vaid@atlan.com,GitHub,atlanhq,github.com/atlanhq/IT-Automation/blob/NetSkope-Zero-touch-installation/Installation-script/Netskope Client Installation [Automated].sh,Netskope Client Installation [Automated].sh,File
+1747634370,05/19/2025 05:59:30,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747634369,05/19/2025 05:59:29,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747634341,05/19/2025 05:59:01,Atlan_Default Allow,policy,alert,View,harsh.vaid@atlan.com,GitHub,atlanhq,github.com/atlanhq/IT-Automation/blob/NetSkope-Zero-touch-installation/Serial-number-email/zapier_python.py,zapier_python.py,File
+1747634118,05/19/2025 05:55:18,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747633493,05/19/2025 05:44:53,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747633350,05/19/2025 05:42:30,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747633335,05/19/2025 05:42:15,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747633219,05/19/2025 05:40:19,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747633218,05/19/2025 05:40:18,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747633214,05/19/2025 05:40:14,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747631692,05/19/2025 05:14:52,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747631634,05/19/2025 05:13:54,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747629890,05/19/2025 04:44:50,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747628334,05/19/2025 04:18:54,Atlan_Default Allow,policy,alert,Download,abhinav.rohilla@atlan.com,GitHub,great-expectations,raw.githubusercontent.com/great-expectations/great_expectations/develop/docs/docusaurus/static/img/gx-mark-160.png,gx-mark-160.png,File
+1747628075,05/19/2025 04:14:35,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747628075,05/19/2025 04:14:35,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747628034,05/19/2025 04:13:54,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747624943,05/19/2025 03:22:23,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747622952,05/19/2025 02:49:12,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747622948,05/19/2025 02:49:08,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747622585,05/19/2025 02:43:05,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747618921,05/19/2025 01:42:01,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747611602,05/18/2025 23:40:02,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747589456,05/18/2025 17:30:56,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747589449,05/18/2025 17:30:49,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747589242,05/18/2025 17:27:22,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747585815,05/18/2025 16:30:15,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747585760,05/18/2025 16:29:20,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747584013,05/18/2025 16:00:13,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747583834,05/18/2025 15:57:14,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/HEAD/community-plugin-deprecation.json,community-plugin-deprecation.json,File
+1747582212,05/18/2025 15:30:12,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747582160,05/18/2025 15:29:20,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747580409,05/18/2025 15:00:09,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747578597,05/18/2025 14:29:57,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747578594,05/18/2025 14:29:54,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747578382,05/18/2025 14:26:22,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747571689,05/18/2025 12:34:49,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747565412,05/18/2025 10:50:12,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747554142,05/18/2025 07:42:22,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747552652,05/18/2025 07:17:32,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747552341,05/18/2025 07:12:21,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747550525,05/18/2025 06:42:05,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747550525,05/18/2025 06:42:05,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747549092,05/18/2025 06:18:12,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747545748,05/18/2025 05:22:28,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747545244,05/18/2025 05:14:04,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747545153,05/18/2025 05:12:33,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747543946,05/18/2025 04:52:26,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747542144,05/18/2025 04:22:24,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747541644,05/18/2025 04:14:04,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747540343,05/18/2025 03:52:23,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747538505,05/18/2025 03:21:45,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747537698,05/18/2025 03:08:18,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747537010,05/18/2025 02:56:50,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747536539,05/18/2025 02:48:59,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747536539,05/18/2025 02:48:59,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747506686,05/17/2025 18:31:26,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747505726,05/17/2025 18:15:26,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747505475,05/17/2025 18:11:15,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747503911,05/17/2025 17:45:11,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747503911,05/17/2025 17:45:11,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747503178,05/17/2025 17:32:58,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747503177,05/17/2025 17:32:57,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747500633,05/17/2025 16:50:33,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747500631,05/17/2025 16:50:31,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747498710,05/17/2025 16:18:30,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747498709,05/17/2025 16:18:29,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747496627,05/17/2025 15:43:47,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747496626,05/17/2025 15:43:46,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747494057,05/17/2025 15:00:57,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747493663,05/17/2025 14:54:23,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747493661,05/17/2025 14:54:21,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747492871,05/17/2025 14:41:11,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747492870,05/17/2025 14:41:10,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747491743,05/17/2025 14:22:23,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747491741,05/17/2025 14:22:21,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747490895,05/17/2025 14:08:15,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747490894,05/17/2025 14:08:14,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747490395,05/17/2025 13:59:55,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747488918,05/17/2025 13:35:18,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747488917,05/17/2025 13:35:17,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747486941,05/17/2025 13:02:21,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747486940,05/17/2025 13:02:20,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747484965,05/17/2025 12:29:25,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747484964,05/17/2025 12:29:24,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747483507,05/17/2025 12:05:07,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747483505,05/17/2025 12:05:05,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747482989,05/17/2025 11:56:29,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747482988,05/17/2025 11:56:28,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747481012,05/17/2025 11:23:32,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747481011,05/17/2025 11:23:31,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747479483,05/17/2025 10:58:03,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747479481,05/17/2025 10:58:01,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747479036,05/17/2025 10:50:36,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747479034,05/17/2025 10:50:34,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747477102,05/17/2025 10:18:22,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747477058,05/17/2025 10:17:38,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747477056,05/17/2025 10:17:36,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747475081,05/17/2025 09:44:41,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747475080,05/17/2025 09:44:40,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747473104,05/17/2025 09:11:44,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747473103,05/17/2025 09:11:43,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747473063,05/17/2025 09:11:03,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747471128,05/17/2025 08:38:48,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747471127,05/17/2025 08:38:47,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747469151,05/17/2025 08:05:51,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747469150,05/17/2025 08:05:50,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747468270,05/17/2025 07:51:10,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747467601,05/17/2025 07:40:01,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747467174,05/17/2025 07:32:54,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747467173,05/17/2025 07:32:53,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747465800,05/17/2025 07:10:00,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747465198,05/17/2025 06:59:58,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747465196,05/17/2025 06:59:56,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747464670,05/17/2025 06:51:10,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747463999,05/17/2025 06:39:59,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747463220,05/17/2025 06:27:00,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747463219,05/17/2025 06:26:59,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747462198,05/17/2025 06:09:58,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747461244,05/17/2025 05:54:04,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747461242,05/17/2025 05:54:02,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747461070,05/17/2025 05:51:10,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747460397,05/17/2025 05:39:57,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747460270,05/17/2025 05:37:50,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747459266,05/17/2025 05:21:06,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747459265,05/17/2025 05:21:05,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747458596,05/17/2025 05:09:56,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747457470,05/17/2025 04:51:10,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747457290,05/17/2025 04:48:10,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747457289,05/17/2025 04:48:09,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747456791,05/17/2025 04:39:51,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747454991,05/17/2025 04:09:51,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747453870,05/17/2025 03:51:10,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747453196,05/17/2025 03:39:56,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747453173,05/17/2025 03:39:33,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747453173,05/17/2025 03:39:33,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747447902,05/17/2025 02:11:42,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747436655,05/16/2025 23:04:15,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747432905,05/16/2025 22:01:45,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747429306,05/16/2025 21:01:46,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747426940,05/16/2025 20:22:20,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,owasp,raw.githubusercontent.com/OWASP/CheatSheetSeries/master/assets/Logging_Cheat_Sheet.drawio.png,Logging_Cheat_Sheet.drawio.png,File
+1747425705,05/16/2025 20:01:45,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747422106,05/16/2025 19:01:46,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747419007,05/16/2025 18:10:07,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747419006,05/16/2025 18:10:06,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747418506,05/16/2025 18:01:46,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747416476,05/16/2025 17:27:56,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747416474,05/16/2025 17:27:54,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747416466,05/16/2025 17:27:46,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/HEAD/community-plugin-deprecation.json,community-plugin-deprecation.json,File
+1747416382,05/16/2025 17:26:22,Atlan_Default Allow,policy,alert,Post,prateek.mishra@atlan.com,GitHub,atlanhq,github.com/atlanhq/agent-toolkit/pull/65/review_comment/create,,Comment
+1747416255,05/16/2025 17:24:15,Atlan_Default Allow,policy,alert,View,prateek.mishra@atlan.com,GitHub,atlanhq,github.com/atlanhq/agent-toolkit/blob/feat/non-root-user/modelcontextprotocol/Dockerfile,Dockerfile,File
+1747416037,05/16/2025 17:20:37,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747414906,05/16/2025 17:01:46,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747414850,05/16/2025 17:00:50,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747414231,05/16/2025 16:50:31,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747413028,05/16/2025 16:30:28,Atlan_Default Allow,policy,alert,Create,harsh.vaid@atlan.com,GitHub,atlanhq,github.com/atlanhq/IT-Automation/create/NetSkope-Zero-touch-installation,Serial-number-email/zapier_python.py,File
+1747412845,05/16/2025 16:27:25,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747412842,05/16/2025 16:27:22,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747412430,05/16/2025 16:20:30,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747412060,05/16/2025 16:14:20,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/models/blob/master/atlas/entityDefs/Referenceable/Asset/Catalog/SQL/Table.json,Table.json,File
+1747412044,05/16/2025 16:14:04,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,atlanhq,raw.githubusercontent.com/atlanhq/models/master/docs/type-admin.png,type-admin.png,File
+1747411306,05/16/2025 16:01:46,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747411250,05/16/2025 16:00:50,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747410628,05/16/2025 15:50:28,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747408828,05/16/2025 15:20:28,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747408519,05/16/2025 15:15:19,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747408518,05/16/2025 15:15:18,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747408224,05/16/2025 15:10:24,Atlan_Default Allow,policy,alert,Download,viraj.manjarekar@atlan.com,GitHub,atlanhq,raw.githubusercontent.com/atlanhq/atlan-csa/refs/heads/main/archive/scripts/bigquery-description-reverse-sync/main.py,main.py,File
+1747408213,05/16/2025 15:10:13,Atlan_Default Allow,policy,alert,View,viraj.manjarekar@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-csa/blob/main/archive/scripts/bigquery-description-reverse-sync/main.py,main.py,File
+1747408092,05/16/2025 15:08:12,Atlan_Default Allow,policy,alert,View,viraj.manjarekar@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-csa/blob/main/archive/scripts/bigquery-description-reverse-sync/main.py,main.py,File
+1747408059,05/16/2025 15:07:39,Atlan_Default Allow,policy,alert,View,viraj.manjarekar@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-csa/blob/main/archive/scripts/bigquery-description-reverse-sync/main.py,main.py,File
+1747408055,05/16/2025 15:07:35,Atlan_Default Allow,policy,alert,View,viraj.manjarekar@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-csa/blob/main/archive/scripts/bigquery-description-reverse-sync/requirements.txt,requirements.txt,File
+1747408023,05/16/2025 15:07:03,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747408021,05/16/2025 15:07:01,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747408020,05/16/2025 15:07:00,Atlan_Default Allow,policy,alert,View,viraj.manjarekar@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-csa/blob/main/archive/scripts/bigquery-description-reverse-sync/main.py,main.py,File
+1747407706,05/16/2025 15:01:46,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747407592,05/16/2025 14:59:52,Atlan_Default Allow,policy,alert,View,viraj.manjarekar@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-csa/blob/main/archive/scripts/bigquery-description-reverse-sync/main.py,main.py,File
+1747407578,05/16/2025 14:59:38,Atlan_Default Allow,policy,alert,View,viraj.manjarekar@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-csa/blob/main/archive/scripts/bigquery-description-reverse-sync/.env.example,.env.example,File
+1747407472,05/16/2025 14:57:52,Atlan_Default Allow,policy,alert,View,viraj.manjarekar@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-csa/blob/main/archive/scripts/bigquery-description-reverse-sync/main.py,main.py,File
+1747407466,05/16/2025 14:57:46,Atlan_Default Allow,policy,alert,View,viraj.manjarekar@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-csa/blob/main/archive/scripts/bigquery-description-reverse-sync/main.py,main.py,File
+1747407026,05/16/2025 14:50:26,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747406892,05/16/2025 14:48:12,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747406157,05/16/2025 14:35:57,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747406155,05/16/2025 14:35:55,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747405223,05/16/2025 14:20:23,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747405141,05/16/2025 14:19:01,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/blob/main/sdk/src/main/java/com/atlan/net/HttpClient.java,HttpClient.java,File
+1747405083,05/16/2025 14:18:03,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/compare/main...APP-6770,main...APP-6770,Diff
+1747405083,05/16/2025 14:18:03,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/compare/file-list,file-list,Diff
+1747405077,05/16/2025 14:17:57,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/compare,Accept,Diff
+1747404544,05/16/2025 14:09:04,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,schemastore,raw.githubusercontent.com/SchemaStore/schemastore/master/src/api/json/catalog.json,catalog.json,File
+1747404184,05/16/2025 14:03:04,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747403408,05/16/2025 13:50:08,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747403407,05/16/2025 13:50:07,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747403292,05/16/2025 13:48:12,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747402383,05/16/2025 13:33:03,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747402381,05/16/2025 13:33:01,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747399800,05/16/2025 12:50:00,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747398877,05/16/2025 12:34:37,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747397072,05/16/2025 12:04:32,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747396435,05/16/2025 11:53:55,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747396434,05/16/2025 11:53:54,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747396383,05/16/2025 11:53:03,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747396372,05/16/2025 11:52:52,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747396367,05/16/2025 11:52:47,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,jetbrains,raw.githubusercontent.com/JetBrains/web-types/master/packages/registry.json,registry.json,File
+1747396147,05/16/2025 11:49:07,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747396138,05/16/2025 11:48:58,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/compare,Accept,Diff
+1747396047,05/16/2025 11:47:27,Atlan_Default Allow,policy,alert,Create,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/pull/create,,File
+1747396044,05/16/2025 11:47:24,Atlan_Default Allow,policy,alert,Post,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/issues/new/show_partial,,Comment
+1747396041,05/16/2025 11:47:21,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/compare/file-list,file-list,Diff
+1747396040,05/16/2025 11:47:20,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/compare/APP-6770,APP-6770,Diff
+1747395256,05/16/2025 11:34:16,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747395256,05/16/2025 11:34:16,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747394797,05/16/2025 11:26:37,Atlan_Default Allow,policy,alert,View,aayush.sarva@atlan.com,GitHub,atlanhq,github.com/atlanhq/observability-ai-engine/blob/e191080200fc86ec1aedcb59a1471fbb6fe02906/src/ai_observability/core/analyzer.py,analyzer.py,File
+1747394230,05/16/2025 11:17:10,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,vinayak-mehta,raw.githubusercontent.com/vinayak-mehta/conrad/master/docs/_static/show-name.png,show-name.png,File
+1747394230,05/16/2025 11:17:10,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,vinayak-mehta,raw.githubusercontent.com/vinayak-mehta/conrad/master/docs/_static/show-date.png,show-date.png,File
+1747394230,05/16/2025 11:17:10,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,vinayak-mehta,raw.githubusercontent.com/vinayak-mehta/conrad/master/docs/_static/show-cfp.png,show-cfp.png,File
+1747394230,05/16/2025 11:17:10,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,vinayak-mehta,raw.githubusercontent.com/vinayak-mehta/conrad/master/docs/_static/show.png,show.png,File
+1747394230,05/16/2025 11:17:10,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,vinayak-mehta,raw.githubusercontent.com/vinayak-mehta/conrad/master/docs/_static/mozilla-satellite-antenna.png,mozilla-satellite-antenna.png,File
+1747394230,05/16/2025 11:17:10,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,vinayak-mehta,raw.githubusercontent.com/vinayak-mehta/conrad/master/docs/_static/remind.png,remind.png,File
+1747394230,05/16/2025 11:17:10,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,vinayak-mehta,raw.githubusercontent.com/vinayak-mehta/conrad/master/docs/_static/refresh.png,refresh.png,File
+1747394230,05/16/2025 11:17:10,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,vinayak-mehta,raw.githubusercontent.com/vinayak-mehta/conrad/master/docs/_static/show-location.png,show-location.png,File
+1747394230,05/16/2025 11:17:10,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,vinayak-mehta,raw.githubusercontent.com/vinayak-mehta/conrad/master/docs/_static/show-tag.png,show-tag.png,File
+1747393120,05/16/2025 10:58:40,Atlan_Default Allow,policy,alert,View,prateek.mishra@atlan.com,GitHub,atlanhq,github.com/atlanhq/tenant-config-mgmt/blob/main/readme.md,readme.md,File
+1747392556,05/16/2025 10:49:16,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747392376,05/16/2025 10:46:16,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747391260,05/16/2025 10:27:40,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747390891,05/16/2025 10:21:31,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747390890,05/16/2025 10:21:30,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747390889,05/16/2025 10:21:29,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747390575,05/16/2025 10:16:15,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747390176,05/16/2025 10:09:36,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,matakanobu,raw.githubusercontent.com/matakanobu/python-monorepo/main/img/pr-training.png,pr-training.png,File
+1747389220,05/16/2025 09:53:40,Atlan_Default Allow,policy,alert,View,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/platform-temporal-workflows/blob/main/go/workflows/tenants/cassandra-backup-restore/backup_activities.go,backup_activities.go,File
+1747389215,05/16/2025 09:53:35,Atlan_Default Allow,policy,alert,View,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/platform-temporal-workflows/blob/main/go/workflows/tenants/cassandra-backup-restore/backup_workflow.go,backup_workflow.go,File
+1747389192,05/16/2025 09:53:12,Atlan_Default Allow,policy,alert,View,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/platform-temporal-workflows/blob/main/go/workflows/tenants/cassandra-backup-restore/models.go,models.go,File
+1747389166,05/16/2025 09:52:46,Atlan_Default Allow,policy,alert,View,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/platform-temporal-workflows/blob/main/go/workflows/tenants/cassandra-backup-restore/internal/icarus/icarus_client.go,icarus_client.go,File
+1747389141,05/16/2025 09:52:21,Atlan_Default Allow,policy,alert,View,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/platform-temporal-workflows/blob/main/go/workflows/tenants/cassandra-backup-restore/backup_activities.go,backup_activities.go,File
+1747389112,05/16/2025 09:51:52,Atlan_Default Allow,policy,alert,View,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/platform-temporal-workflows/blob/main/go/workflows/tenants/cassandra-backup-restore/backup_workflow.go,backup_workflow.go,File
+1747389107,05/16/2025 09:51:47,Atlan_Default Allow,policy,alert,View,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/platform-temporal-workflows/blob/main/go/workflows/tenants/cassandra-backup-restore/backup_activities.go,backup_activities.go,File
+1747389037,05/16/2025 09:50:37,Atlan_Default Allow,policy,alert,View,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/platform-temporal-workflows/blob/main/go/workflows/tenants/cassandra-backup-restore/backup_workflow.go,backup_workflow.go,File
+1747389028,05/16/2025 09:50:28,Atlan_Default Allow,policy,alert,View,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/platform-temporal-workflows/blob/main/go/workflows/tenants/cassandra-backup-restore/restore_workflow.go,restore_workflow.go,File
+1747389019,05/16/2025 09:50:19,Atlan_Default Allow,policy,alert,View,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/platform-temporal-workflows/blob/main/go/workflows/tenants/cassandra-backup-restore/restore_activities.go,restore_activities.go,File
+1747389018,05/16/2025 09:50:18,Atlan_Default Allow,policy,alert,View,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/platform-temporal-workflows/blob/main/go/workflows/tenants/cassandra-backup-restore/restore_workflow.go,restore_workflow.go,File
+1747389014,05/16/2025 09:50:14,Atlan_Default Allow,policy,alert,View,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/platform-temporal-workflows/blob/main/go/workflows/tenants/cassandra-backup-restore/restore_activities.go,restore_activities.go,File
+1747389013,05/16/2025 09:50:13,Atlan_Default Allow,policy,alert,View,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/platform-temporal-workflows/blob/main/go/workflows/tenants/cassandra-backup-restore/models.go,models.go,File
+1747388993,05/16/2025 09:49:53,Atlan_Default Allow,policy,alert,View,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/platform-temporal-workflows/blob/main/go/workflows/tenants/cassandra-backup-restore/backup_activities.go,backup_activities.go,File
+1747388970,05/16/2025 09:49:30,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747388968,05/16/2025 09:49:28,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747388951,05/16/2025 09:49:11,Atlan_Default Allow,policy,alert,View,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/platform-temporal-workflows/blob/main/go/workflows/tenants/cassandra-backup-restore/backup_workflow.go,backup_workflow.go,File
+1747388929,05/16/2025 09:48:49,Atlan_Default Allow,policy,alert,View,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/platform-temporal-workflows/blob/main/go/workflows/tenants/cassandra-backup-restore/backup_activities.go,backup_activities.go,File
+1747388857,05/16/2025 09:47:37,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,temporalio,raw.githubusercontent.com/temporalio/awesome-temporal/main/temporal.png,temporal.png,File
+1747388774,05/16/2025 09:46:14,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747388066,05/16/2025 09:34:26,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,argoproj,private-user-images.githubusercontent.com/117888268/444424759-d5d5b528-769d-409c-b1a5-b4ab63c9e2a4.png,,File
+1747388066,05/16/2025 09:34:26,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,argoproj,private-user-images.githubusercontent.com/117888268/444424839-22302745-ae69-47bf-b15e-f4d237aa768f.png,,File
+1747388052,05/16/2025 09:34:12,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,argoproj,private-user-images.githubusercontent.com/117888268/444424839-22302745-ae69-47bf-b15e-f4d237aa768f.png,,File
+1747388052,05/16/2025 09:34:12,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,argoproj,private-user-images.githubusercontent.com/117888268/444424759-d5d5b528-769d-409c-b1a5-b4ab63c9e2a4.png,,File
+1747388026,05/16/2025 09:33:46,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,argoproj,private-user-images.githubusercontent.com/117888268/444424839-22302745-ae69-47bf-b15e-f4d237aa768f.png,,File
+1747388026,05/16/2025 09:33:46,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,argoproj,private-user-images.githubusercontent.com/117888268/444424759-d5d5b528-769d-409c-b1a5-b4ab63c9e2a4.png,,File
+1747387660,05/16/2025 09:27:40,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747387056,05/16/2025 09:17:36,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747387055,05/16/2025 09:17:35,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747387049,05/16/2025 09:17:29,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747387048,05/16/2025 09:17:28,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747387047,05/16/2025 09:17:27,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747386973,05/16/2025 09:16:13,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747386317,05/16/2025 09:05:17,Atlan_Default Allow,policy,alert,Invite,gopal@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-frontend/members,,User
+1747385570,05/16/2025 08:52:50,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,argoproj,private-user-images.githubusercontent.com/117888268/444424839-22302745-ae69-47bf-b15e-f4d237aa768f.png,,File
+1747385570,05/16/2025 08:52:50,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,argoproj,private-user-images.githubusercontent.com/117888268/444424759-d5d5b528-769d-409c-b1a5-b4ab63c9e2a4.png,,File
+1747385565,05/16/2025 08:52:45,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,atlanhq,raw.githubusercontent.com/atlanhq/models/master/docs/type-admin.png,type-admin.png,File
+1747385172,05/16/2025 08:46:12,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747385128,05/16/2025 08:45:28,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747385127,05/16/2025 08:45:27,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747385126,05/16/2025 08:45:26,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747385080,05/16/2025 08:44:40,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747385079,05/16/2025 08:44:39,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747384060,05/16/2025 08:27:40,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747383369,05/16/2025 08:16:09,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747383206,05/16/2025 08:13:26,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747383205,05/16/2025 08:13:25,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747383204,05/16/2025 08:13:24,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747383104,05/16/2025 08:11:44,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747383102,05/16/2025 08:11:42,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747383096,05/16/2025 08:11:36,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/marketplace-packages/blob/master/.github/workflows/self-managed-prs.yaml,self-managed-prs.yaml,File
+1747382812,05/16/2025 08:06:52,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/marketplace-packages/blob/master/.github/workflows/self-managed-prs.yaml,self-managed-prs.yaml,File
+1747382791,05/16/2025 08:06:31,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/marketplace-packages/blob/master/.github/workflows/validations.yaml,validations.yaml,File
+1747382773,05/16/2025 08:06:13,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/marketplace-packages/blob/master/.github/workflows/pull-request-check.yaml,pull-request-check.yaml,File
+1747382730,05/16/2025 08:05:30,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/marketplace-packages/blob/master/.github/workflows/deployment-prs.yaml,deployment-prs.yaml,File
+1747382437,05/16/2025 08:00:37,Atlan_Default Allow,policy,alert,Create,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/pull/create,,File
+1747382407,05/16/2025 08:00:07,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/compare/file-list,file-list,Diff
+1747382406,05/16/2025 08:00:06,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/compare/main...APP-6751,main...APP-6751,Diff
+1747382396,05/16/2025 07:59:56,Atlan_Default Allow,policy,alert,View,christopher@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-java/compare,Accept,Diff
+1747381569,05/16/2025 07:46:09,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747381557,05/16/2025 07:45:57,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747381554,05/16/2025 07:45:54,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747381127,05/16/2025 07:38:47,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747381126,05/16/2025 07:38:46,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747380340,05/16/2025 07:25:40,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747380120,05/16/2025 07:22:00,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747380118,05/16/2025 07:21:58,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747379151,05/16/2025 07:05:51,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747379149,05/16/2025 07:05:49,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747378199,05/16/2025 06:49:59,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747378197,05/16/2025 06:49:57,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747378197,05/16/2025 06:49:57,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747378057,05/16/2025 06:47:37,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747377493,05/16/2025 06:38:13,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747377174,05/16/2025 06:32:54,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747377173,05/16/2025 06:32:53,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747376277,05/16/2025 06:17:57,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747376276,05/16/2025 06:17:56,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747376275,05/16/2025 06:17:55,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747376275,05/16/2025 06:17:55,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747375690,05/16/2025 06:08:10,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747375196,05/16/2025 05:59:56,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747375195,05/16/2025 05:59:55,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747374354,05/16/2025 05:45:54,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747374352,05/16/2025 05:45:52,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747373889,05/16/2025 05:38:09,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747373219,05/16/2025 05:26:59,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747373218,05/16/2025 05:26:58,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747373083,05/16/2025 05:24:43,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747373006,05/16/2025 05:23:26,Atlan_Default Allow,policy,alert,Invite,gopal@atlan.com,GitHub,atlanhq,github.com/atlanhq/platform-temporal-workflows/members,,User
+1747371996,05/16/2025 05:06:36,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747371242,05/16/2025 04:54:02,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747371241,05/16/2025 04:54:01,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747370193,05/16/2025 04:36:33,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747370048,05/16/2025 04:34:08,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747369653,05/16/2025 04:27:33,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747369652,05/16/2025 04:27:32,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747369651,05/16/2025 04:27:31,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747369651,05/16/2025 04:27:31,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747369650,05/16/2025 04:27:30,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747369326,05/16/2025 04:22:06,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747368391,05/16/2025 04:06:31,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747368265,05/16/2025 04:04:25,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,googlecloudplatform,raw.githubusercontent.com/GoogleCloudPlatform/kubectl-ai/main/.github/kubectl-ai.gif,kubectl-ai.gif,File
+1747366577,05/16/2025 03:36:17,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747366575,05/16/2025 03:36:15,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747366472,05/16/2025 03:34:32,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747366471,05/16/2025 03:34:31,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747366448,05/16/2025 03:34:08,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747365571,05/16/2025 03:19:31,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747364497,05/16/2025 03:01:37,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747364496,05/16/2025 03:01:36,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747362520,05/16/2025 02:28:40,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747362519,05/16/2025 02:28:39,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747361544,05/16/2025 02:12:24,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747360545,05/16/2025 01:55:45,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747360544,05/16/2025 01:55:44,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747358561,05/16/2025 01:22:41,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747358560,05/16/2025 01:22:40,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747357882,05/16/2025 01:11:22,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747356585,05/16/2025 00:49:45,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747356584,05/16/2025 00:49:44,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747354609,05/16/2025 00:16:49,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747354608,05/16/2025 00:16:48,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747352633,05/15/2025 23:43:53,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747352631,05/15/2025 23:43:51,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747350656,05/15/2025 23:10:56,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747350655,05/15/2025 23:10:55,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747350349,05/15/2025 23:05:49,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747348679,05/15/2025 22:37:59,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747348678,05/15/2025 22:37:58,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747346750,05/15/2025 22:05:50,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747346702,05/15/2025 22:05:02,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747346701,05/15/2025 22:05:01,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747344725,05/15/2025 21:32:05,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747344724,05/15/2025 21:32:04,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747342748,05/15/2025 20:59:08,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747342747,05/15/2025 20:59:07,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747340771,05/15/2025 20:26:11,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747340770,05/15/2025 20:26:10,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747339548,05/15/2025 20:05:48,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747338795,05/15/2025 19:53:15,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747338794,05/15/2025 19:53:14,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747337996,05/15/2025 19:39:56,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747337985,05/15/2025 19:39:45,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,owasp,raw.githubusercontent.com/OWASP/CheatSheetSeries/master/assets/Logging_Cheat_Sheet.drawio.png,Logging_Cheat_Sheet.drawio.png,File
+1747337290,05/15/2025 19:28:10,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747337158,05/15/2025 19:25:58,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/HEAD/community-plugin-deprecation.json,community-plugin-deprecation.json,File
+1747336819,05/15/2025 19:20:19,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747336818,05/15/2025 19:20:18,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747336385,05/15/2025 19:13:05,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747336031,05/15/2025 19:07:11,Atlan_Default Allow,policy,alert,Download,sushovan@atlan.com,GitHub,tannerlinsley,raw.githubusercontent.com/tannerlinsley/files/master/sponsorships/sponsor-aggrid.png,sponsor-aggrid.png,File
+1747336030,05/15/2025 19:07:10,Atlan_Default Allow,policy,alert,Download,sushovan@atlan.com,GitHub,tannerlinsley,raw.githubusercontent.com/tannerlinsley/files/master/images/patreon/sponsor-retool.png,sponsor-retool.png,File
+1747336030,05/15/2025 19:07:10,Atlan_Default Allow,policy,alert,Download,sushovan@atlan.com,GitHub,tannerlinsley,raw.githubusercontent.com/tannerlinsley/files/master/sponsorships/basedash.png,basedash.png,File
+1747336030,05/15/2025 19:07:10,Atlan_Default Allow,policy,alert,Download,sushovan@atlan.com,GitHub,tannerlinsley,raw.githubusercontent.com/tannerlinsley/files/master/sponsorships/handsontable.png,handsontable.png,File
+1747335488,05/15/2025 18:58:08,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747334843,05/15/2025 18:47:23,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747334841,05/15/2025 18:47:21,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747334584,05/15/2025 18:43:04,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747334396,05/15/2025 18:39:56,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747333687,05/15/2025 18:28:07,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747332866,05/15/2025 18:14:26,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747332865,05/15/2025 18:14:25,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747332782,05/15/2025 18:13:02,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747332348,05/15/2025 18:05:48,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747332327,05/15/2025 18:05:27,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747331886,05/15/2025 17:58:06,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747330981,05/15/2025 17:43:01,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747330890,05/15/2025 17:41:30,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747330889,05/15/2025 17:41:29,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747330796,05/15/2025 17:39:56,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747330083,05/15/2025 17:28:03,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747329180,05/15/2025 17:13:00,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747328913,05/15/2025 17:08:33,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747328912,05/15/2025 17:08:32,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747328747,05/15/2025 17:05:47,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747328636,05/15/2025 17:03:56,Atlan_Default Allow,policy,alert,Download,viraj.manjarekar@atlan.com,GitHub,schemastore,raw.githubusercontent.com/SchemaStore/schemastore/master/src/api/json/catalog.json,catalog.json,File
+1747328281,05/15/2025 16:58:01,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747327380,05/15/2025 16:43:00,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747327196,05/15/2025 16:39:56,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747326937,05/15/2025 16:35:37,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747326936,05/15/2025 16:35:36,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747326702,05/15/2025 16:31:42,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,schemastore,raw.githubusercontent.com/SchemaStore/schemastore/master/src/api/json/catalog.json,catalog.json,File
+1747326480,05/15/2025 16:28:00,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747326234,05/15/2025 16:23:54,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747325577,05/15/2025 16:12:57,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747325147,05/15/2025 16:05:47,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747324961,05/15/2025 16:02:41,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747324960,05/15/2025 16:02:40,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747324677,05/15/2025 15:57:57,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747324580,05/15/2025 15:56:20,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747323764,05/15/2025 15:42:44,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747323761,05/15/2025 15:42:41,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747323596,05/15/2025 15:39:56,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747322985,05/15/2025 15:29:45,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747322984,05/15/2025 15:29:44,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747321691,05/15/2025 15:08:11,Atlan_Default Allow,policy,alert,View,prateek.mishra@atlan.com,GitHub,atlanhq,github.com/atlanhq/platform-temporal-workflows/blob/main/internal/workflows/tenants/cassandra-backup-restore/backup_workflow.go,backup_workflow.go,File
+1747321547,05/15/2025 15:05:47,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747321331,05/15/2025 15:02:11,Atlan_Default Allow,policy,alert,View,prateek.mishra@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common/blob/workflows-prod/platform/scripts/workflow/other/tenant-availability-notification-cron/daily/major-tenants-notification-cron/slack_message.json,slack_message.json,File
+1747321199,05/15/2025 14:59:59,Atlan_Default Allow,policy,alert,View,prateek.mishra@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common/blob/workflows-prod/platform/scripts/workflow/other/tenant-availability-notification-cron/daily/major-tenants-notification-cron/major_tenants_notification.py,major_tenants_notification.py,File
+1747321008,05/15/2025 14:56:48,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747321007,05/15/2025 14:56:47,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747320510,05/15/2025 14:48:30,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747319031,05/15/2025 14:23:51,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747319030,05/15/2025 14:23:50,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747318824,05/15/2025 14:20:24,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747318704,05/15/2025 14:18:24,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747317948,05/15/2025 14:05:48,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747317054,05/15/2025 13:50:54,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747317053,05/15/2025 13:50:53,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747316892,05/15/2025 13:48:12,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747316892,05/15/2025 13:48:12,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747315077,05/15/2025 13:17:57,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747315076,05/15/2025 13:17:56,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747315003,05/15/2025 13:16:43,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747315002,05/15/2025 13:16:42,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747315001,05/15/2025 13:16:41,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747314740,05/15/2025 13:12:20,Atlan_Default Allow,policy,alert,Download,prateek.mishra@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747314638,05/15/2025 13:10:38,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747314347,05/15/2025 13:05:47,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747313721,05/15/2025 12:55:21,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747313718,05/15/2025 12:55:18,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747313100,05/15/2025 12:45:00,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747313099,05/15/2025 12:44:59,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747313082,05/15/2025 12:44:42,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747313081,05/15/2025 12:44:41,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747313080,05/15/2025 12:44:40,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747311719,05/15/2025 12:21:59,Atlan_Default Allow,policy,alert,Invite,gopal@atlan.com,GitHub,atlanhq,github.com/atlanhq/project-owlet/members,,User
+1747311431,05/15/2025 12:17:11,Atlan_Default Allow,policy,alert,Invite,gopal@atlan.com,GitHub,atlanhq,github.com/atlanhq/kryptonite-packages/members,,User
+1747311366,05/15/2025 12:16:06,Atlan_Default Allow,policy,alert,Download,yatin@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/cline-chat-interface.png,cline-chat-interface.png,File
+1747311366,05/15/2025 12:16:06,Atlan_Default Allow,policy,alert,Download,yatin@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/cline-select-bedrock.png,cline-select-bedrock.png,File
+1747311366,05/15/2025 12:16:06,Atlan_Default Allow,policy,alert,Download,yatin@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/cline-custom-instructions.png,cline-custom-instructions.png,File
+1747311365,05/15/2025 12:16:05,Atlan_Default Allow,policy,alert,Download,yatin@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/mcp-servers-installed.png,mcp-servers-installed.png,File
+1747311365,05/15/2025 12:16:05,Atlan_Default Allow,policy,alert,Download,yatin@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/install-cline-extension.png,install-cline-extension.png,File
+1747311365,05/15/2025 12:16:05,Atlan_Default Allow,policy,alert,Download,yatin@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/select-mcp-servers.png,select-mcp-servers.png,File
+1747311365,05/15/2025 12:16:05,Atlan_Default Allow,policy,alert,Download,yatin@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/configure-mcp-servers.png,configure-mcp-servers.png,File
+1747311365,05/15/2025 12:16:05,Atlan_Default Allow,policy,alert,Download,yatin@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/cline-api-provider-filled.png,cline-api-provider-filled.png,File
+1747311365,05/15/2025 12:16:05,Atlan_Default Allow,policy,alert,Download,yatin@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/cline-select-aws-profile.png,cline-select-aws-profile.png,File
+1747311363,05/15/2025 12:16:03,Atlan_Default Allow,policy,alert,Invite,gopal@atlan.com,GitHub,atlanhq,github.com/atlanhq/kryptonite-packages/members,,User
+1747311329,05/15/2025 12:15:29,Atlan_Default Allow,policy,alert,Create,gopal@atlan.com,GitHub,atlanhq,github.com/repositories,kryptonite-packages,Repository
+1747311161,05/15/2025 12:12:41,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747311160,05/15/2025 12:12:40,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747311159,05/15/2025 12:12:39,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747311123,05/15/2025 12:12:03,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747311122,05/15/2025 12:12:02,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747310539,05/15/2025 12:02:19,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747309950,05/15/2025 11:52:30,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747309697,05/15/2025 11:48:17,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,schemastore,raw.githubusercontent.com/SchemaStore/schemastore/master/src/api/json/catalog.json,catalog.json,File
+1747309240,05/15/2025 11:40:40,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747309238,05/15/2025 11:40:38,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747309238,05/15/2025 11:40:38,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747309146,05/15/2025 11:39:06,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747309145,05/15/2025 11:39:05,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747309007,05/15/2025 11:36:47,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747308941,05/15/2025 11:35:41,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,vkostyukov,codeload.github.com/vkostyukov/kotlin-sublime-package/zip/master,kotlin-sublime-package-master.zip,File
+1747308927,05/15/2025 11:35:27,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,sublimelsp,codeload.github.com/sublimelsp/LSP-kotlin/zip/v1.4.1,LSP-kotlin-1.4.1.zip,File
+1747308738,05/15/2025 11:32:18,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747308621,05/15/2025 11:30:21,Atlan_Default Allow,policy,alert,Login Successful,mahesh.thimmaiah@atlan.com,GitHub,,github.com/login/oauth/authorize,,User
+1747308592,05/15/2025 11:29:52,Atlan_Default Allow,policy,alert,Login Successful,mahesh.thimmaiah@atlan.com,GitHub,,github.com/login/oauth/authorize,,User
+1747308051,05/15/2025 11:20:51,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,podman-desktop,objects.githubusercontent.com/github-production-release-asset-2e65be/465844859/f1d4efa1-0a91-4e67-96fd-1c4b98e2bc4b,latest-mac.yml,File
+1747307372,05/15/2025 11:09:32,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747307364,05/15/2025 11:09:24,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747307318,05/15/2025 11:08:38,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747307316,05/15/2025 11:08:36,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747307303,05/15/2025 11:08:23,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747307169,05/15/2025 11:06:09,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747307168,05/15/2025 11:06:08,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747306937,05/15/2025 11:02:17,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747306856,05/15/2025 11:00:56,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747306411,05/15/2025 10:53:31,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747306146,05/15/2025 10:49:06,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747306118,05/15/2025 10:48:38,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747306117,05/15/2025 10:48:37,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747306040,05/15/2025 10:47:20,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747305397,05/15/2025 10:36:37,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747305395,05/15/2025 10:36:35,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747305394,05/15/2025 10:36:34,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747305193,05/15/2025 10:33:13,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747305192,05/15/2025 10:33:12,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747305136,05/15/2025 10:32:16,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747303475,05/15/2025 10:04:35,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747303474,05/15/2025 10:04:34,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747303473,05/15/2025 10:04:33,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747303334,05/15/2025 10:02:14,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747303216,05/15/2025 10:00:16,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747303214,05/15/2025 10:00:14,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747302504,05/15/2025 09:48:24,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747302396,05/15/2025 09:46:36,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747302367,05/15/2025 09:46:07,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747302107,05/15/2025 09:41:47,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747301554,05/15/2025 09:32:34,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747301552,05/15/2025 09:32:32,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747301533,05/15/2025 09:32:13,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747301397,05/15/2025 09:29:57,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747301287,05/15/2025 09:28:07,Atlan_Default Allow,policy,alert,Download,yatin@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/cline-api-provider-filled.png,cline-api-provider-filled.png,File
+1747301287,05/15/2025 09:28:07,Atlan_Default Allow,policy,alert,Download,yatin@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/cline-select-aws-profile.png,cline-select-aws-profile.png,File
+1747301286,05/15/2025 09:28:06,Atlan_Default Allow,policy,alert,Download,yatin@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/cline-chat-interface.png,cline-chat-interface.png,File
+1747301286,05/15/2025 09:28:06,Atlan_Default Allow,policy,alert,Download,yatin@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/cline-custom-instructions.png,cline-custom-instructions.png,File
+1747301286,05/15/2025 09:28:06,Atlan_Default Allow,policy,alert,Download,yatin@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/cline-select-bedrock.png,cline-select-bedrock.png,File
+1747301285,05/15/2025 09:28:05,Atlan_Default Allow,policy,alert,Download,yatin@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/configure-mcp-servers.png,configure-mcp-servers.png,File
+1747301285,05/15/2025 09:28:05,Atlan_Default Allow,policy,alert,Download,yatin@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/mcp-servers-installed.png,mcp-servers-installed.png,File
+1747301284,05/15/2025 09:28:04,Atlan_Default Allow,policy,alert,Download,yatin@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/install-cline-extension.png,install-cline-extension.png,File
+1747301284,05/15/2025 09:28:04,Atlan_Default Allow,policy,alert,Download,yatin@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/select-mcp-servers.png,select-mcp-servers.png,File
+1747301238,05/15/2025 09:27:18,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747301237,05/15/2025 09:27:17,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747301081,05/15/2025 09:24:41,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747300665,05/15/2025 09:17:45,Atlan_Default Allow,policy,alert,Download,balakrishnan.r@atlan.com,GitHub,openlineage,private-user-images.githubusercontent.com/144318068/273887276-c0a28c36-ed56-4230-9db4-24c7e02a6a86.png,,File
+1747300665,05/15/2025 09:17:45,Atlan_Default Allow,policy,alert,Download,balakrishnan.r@atlan.com,GitHub,openlineage,private-user-images.githubusercontent.com/144318068/273887991-093b6ef6-77f8-4ee6-b047-03bfdc729041.png,,File
+1747300536,05/15/2025 09:15:36,Atlan_Default Allow,policy,alert,Download,abhinav.rohilla@atlan.com,GitHub,great-expectations,raw.githubusercontent.com/great-expectations/great_expectations/develop/docs/docusaurus/static/img/gx-mark-160.png,gx-mark-160.png,File
+1747299732,05/15/2025 09:02:12,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747299633,05/15/2025 09:00:33,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747299632,05/15/2025 09:00:32,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747299631,05/15/2025 09:00:31,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747297931,05/15/2025 08:32:11,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747297713,05/15/2025 08:28:33,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747297711,05/15/2025 08:28:31,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747296183,05/15/2025 08:03:03,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/cline-custom-instructions.png,cline-custom-instructions.png,File
+1747296183,05/15/2025 08:03:03,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/cline-api-provider-filled.png,cline-api-provider-filled.png,File
+1747296182,05/15/2025 08:03:02,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/select-mcp-servers.png,select-mcp-servers.png,File
+1747296182,05/15/2025 08:03:02,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/configure-mcp-servers.png,configure-mcp-servers.png,File
+1747296182,05/15/2025 08:03:02,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/mcp-servers-installed.png,mcp-servers-installed.png,File
+1747296182,05/15/2025 08:03:02,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/cline-select-aws-profile.png,cline-select-aws-profile.png,File
+1747296182,05/15/2025 08:03:02,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/install-cline-extension.png,install-cline-extension.png,File
+1747296182,05/15/2025 08:03:02,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/cline-chat-interface.png,cline-chat-interface.png,File
+1747296182,05/15/2025 08:03:02,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,awslabs,raw.githubusercontent.com/awslabs/mcp/main/docs/images/root-readme/cline-select-bedrock.png,cline-select-bedrock.png,File
+1747296175,05/15/2025 08:02:55,Atlan_Default Allow,policy,alert,View,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan/blob/a99c4385d8e8d1ca072ebd91e2cad94a57c87607/charts/templates/ip-restriction.yaml,ip-restriction.yaml,File
+1747296169,05/15/2025 08:02:49,Atlan_Default Allow,policy,alert,View,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan/blob/a99c4385d8e8d1ca072ebd91e2cad94a57c87607/charts/templates/ip-restriction.yaml,ip-restriction.yaml,File
+1747296168,05/15/2025 08:02:48,Atlan_Default Allow,policy,alert,View,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan/blob/a99c4385d8e8d1ca072ebd91e2cad94a57c87607/charts/templates/ip-restriction.yaml,ip-restriction.yaml,File
+1747296129,05/15/2025 08:02:09,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747295792,05/15/2025 07:56:32,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747295790,05/15/2025 07:56:30,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747294328,05/15/2025 07:32:08,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747293870,05/15/2025 07:24:30,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747293869,05/15/2025 07:24:29,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747293868,05/15/2025 07:24:28,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747293867,05/15/2025 07:24:27,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747293254,05/15/2025 07:14:14,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747292879,05/15/2025 07:07:59,Atlan_Default Allow,policy,alert,Download,sushovan@atlan.com,GitHub,f,raw.githubusercontent.com/f/mcptools/master/.github/resources/logo.png,logo.png,File
+1747292524,05/15/2025 07:02:04,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747290711,05/15/2025 06:31:51,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747288910,05/15/2025 06:01:50,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747287095,05/15/2025 05:31:35,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747287094,05/15/2025 05:31:34,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747286589,05/15/2025 05:23:09,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,backstage,private-user-images.githubusercontent.com/201724054/437477917-850444f9-beff-416b-b5fe-71a47d98a544.png,,File
+1747286400,05/15/2025 05:20:00,Atlan_Default Allow,policy,alert,View,prateek.mishra@atlan.com,GitHub,atlanhq,github.com/atlanhq/agent-toolkit/blob/main/modelcontextprotocol/Dockerfile,Dockerfile,File
+1747277875,05/15/2025 02:57:55,Atlan_Default Allow,policy,alert,Login Successful,brandon.coates@atlan.com,GitHub,,github.com/login/oauth/authorize,,User
+1747277751,05/15/2025 02:55:51,Atlan_Default Allow,policy,alert,View,brandon.coates@atlan.com,GitHub,microsoft,github.com/microsoft/vscode-copilot-release/blob/main/images/participants-workspace.gif,participants-workspace.gif,File
+1747277751,05/15/2025 02:55:51,Atlan_Default Allow,policy,alert,View,brandon.coates@atlan.com,GitHub,microsoft,github.com/microsoft/vscode-copilot-release/blob/main/images/hero-dark.png,hero-dark.png,File
+1747277751,05/15/2025 02:55:51,Atlan_Default Allow,policy,alert,View,brandon.coates@atlan.com,GitHub,microsoft,github.com/microsoft/vscode-copilot-release/blob/main/images/agent-mode-readme.gif,agent-mode-readme.gif,File
+1747277747,05/15/2025 02:55:47,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,microsoft,raw.githubusercontent.com/microsoft/vscode-copilot-release/refs/heads/main/images/participants-workspace.gif,participants-workspace.gif,File
+1747277747,05/15/2025 02:55:47,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,microsoft,raw.githubusercontent.com/microsoft/vscode-copilot-release/refs/heads/main/images/agent-mode-readme.gif,agent-mode-readme.gif,File
+1747277746,05/15/2025 02:55:46,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,microsoft,raw.githubusercontent.com/microsoft/vscode-copilot-release/refs/heads/main/images/hero-dark.png,hero-dark.png,File
+1747277746,05/15/2025 02:55:46,Atlan_Default Allow,policy,alert,View,brandon.coates@atlan.com,GitHub,microsoft,github.com/microsoft/vscode-copilot-release/blob/main/images/agent-mode-readme.gif,agent-mode-readme.gif,File
+1747277746,05/15/2025 02:55:46,Atlan_Default Allow,policy,alert,View,brandon.coates@atlan.com,GitHub,microsoft,github.com/microsoft/vscode-copilot-release/blob/main/images/participants-workspace.gif,participants-workspace.gif,File
+1747277746,05/15/2025 02:55:46,Atlan_Default Allow,policy,alert,View,brandon.coates@atlan.com,GitHub,microsoft,github.com/microsoft/vscode-copilot-release/blob/main/images/hero-dark.png,hero-dark.png,File
+1747276746,05/15/2025 02:39:06,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747275591,05/15/2025 02:19:51,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747275589,05/15/2025 02:19:49,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747273146,05/15/2025 01:39:06,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747269663,05/15/2025 00:41:03,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747269662,05/15/2025 00:41:02,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747269545,05/15/2025 00:39:05,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747265945,05/14/2025 23:39:05,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747265893,05/14/2025 23:38:13,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747264125,05/14/2025 23:08:45,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,podman-desktop,objects.githubusercontent.com/github-production-release-asset-2e65be/465844859/f1d4efa1-0a91-4e67-96fd-1c4b98e2bc4b,latest-mac.yml,File
+1747263786,05/14/2025 23:03:06,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747263785,05/14/2025 23:03:05,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747262345,05/14/2025 22:39:05,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747260596,05/14/2025 22:09:56,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747260594,05/14/2025 22:09:54,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747258745,05/14/2025 21:39:05,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747257520,05/14/2025 21:18:40,Atlan_Default Allow,policy,alert,View,viraj.manjarekar@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-csa/blob/main/archive/scripts/bigquery-description-reverse-sync/main.py,main.py,File
+1747257507,05/14/2025 21:18:27,Atlan_Default Allow,policy,alert,View,viraj.manjarekar@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-csa/blob/main/archive/scripts/bigquery-description-reverse-sync/.env,.env,File
+1747257506,05/14/2025 21:18:26,Atlan_Default Allow,policy,alert,View,viraj.manjarekar@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-csa/blob/main/archive/scripts/bigquery-description-reverse-sync/main.py,main.py,File
+1747257501,05/14/2025 21:18:21,Atlan_Default Allow,policy,alert,View,viraj.manjarekar@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-csa/blob/main/archive/scripts/bigquery-description-reverse-sync/requirements.txt,requirements.txt,File
+1747257381,05/14/2025 21:16:21,Atlan_Default Allow,policy,alert,View,viraj.manjarekar@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-csa/blob/main/archive/scripts/bigquery-description-reverse-sync/main.py,main.py,File
+1747257247,05/14/2025 21:14:07,Atlan_Default Allow,policy,alert,View,viraj.manjarekar@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-csa/blob/main/scripts/bigquery-description-reverse-sync/main.py,main.py,File
+1747257241,05/14/2025 21:14:01,Atlan_Default Allow,policy,alert,View,viraj.manjarekar@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-csa/blob/main/scripts/bigquery-description-reverse-sync/main.py,main.py,File
+1747257235,05/14/2025 21:13:55,Atlan_Default Allow,policy,alert,View,viraj.manjarekar@atlan.com,GitHub,atlanhq,github.com/atlanhq/atlan-csa/blob/main/scripts/bigquery-description-reverse-sync/main.py,main.py,File
+1747257127,05/14/2025 21:12:07,Atlan-Personal-Login-Alert,policy,alert,Login Successful,viraj.manjarekar@atlan.com,GitHub,,github.com/session,viraj0593,User
+1747255383,05/14/2025 20:43:03,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747255382,05/14/2025 20:43:02,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747255263,05/14/2025 20:41:03,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747255262,05/14/2025 20:41:02,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747255146,05/14/2025 20:39:06,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747251546,05/14/2025 19:39:06,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747249442,05/14/2025 19:04:02,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747249440,05/14/2025 19:04:00,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747248359,05/14/2025 18:45:59,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747247946,05/14/2025 18:39:06,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747247769,05/14/2025 18:36:09,Atlan_Default Allow,policy,alert,Login Successful,anurag.sinha@atlan.com,GitHub,,github.com/session,anurag.sinha@atlan.com,User
+1747246554,05/14/2025 18:15:54,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747245259,05/14/2025 17:54:19,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747245258,05/14/2025 17:54:18,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747244753,05/14/2025 17:45:53,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747244346,05/14/2025 17:39:06,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747242952,05/14/2025 17:15:52,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747242937,05/14/2025 17:15:37,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747242937,05/14/2025 17:15:37,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747242887,05/14/2025 17:14:47,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747242885,05/14/2025 17:14:45,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747240916,05/14/2025 16:41:56,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747240914,05/14/2025 16:41:54,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747240746,05/14/2025 16:39:06,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747238966,05/14/2025 16:09:26,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747237297,05/14/2025 15:41:37,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747237296,05/14/2025 15:41:36,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747237165,05/14/2025 15:39:25,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747237146,05/14/2025 15:39:06,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747236737,05/14/2025 15:32:17,Atlan_Default Allow,policy,alert,Download,viraj.manjarekar@atlan.com,GitHub,exafunction,objects.githubusercontent.com/github-production-release-asset-2e65be/579140181/a998dc6b-2e90-4d98-a25a-3bda95567f51,language_server_macos_arm.gz,File
+1747236731,05/14/2025 15:32:11,Atlan_Default Allow,policy,alert,Download,viraj.manjarekar@atlan.com,GitHub,exafunction,objects.githubusercontent.com/github-production-release-asset-2e65be/579140181/a998dc6b-2e90-4d98-a25a-3bda95567f51,language_server_macos_arm.gz,File
+1747236727,05/14/2025 15:32:07,Atlan_Default Allow,policy,alert,Download,viraj.manjarekar@atlan.com,GitHub,burntsushi,objects.githubusercontent.com/github-production-release-asset-2e65be/53631945/8f795de0-5e8b-422f-98de-e2ee3dee4242,ripgrep-14.1.0-aarch64-apple-darwin.tar.gz,File
+1747235364,05/14/2025 15:09:24,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747235320,05/14/2025 15:08:40,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747235319,05/14/2025 15:08:39,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747233892,05/14/2025 14:44:52,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,wiselibs,objects.githubusercontent.com/github-production-release-asset-2e65be/67626108/db985f44-4f79-4a51-b98d-cad46b248215,better-sqlite3-v11.10.0-node-v131-darwin-arm64.tar.gz,File
+1747233746,05/14/2025 14:42:26,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,backstage,raw.githubusercontent.com/backstage/backstage/master/packages/create-app/seed-yarn.lock,seed-yarn.lock,File
+1747233563,05/14/2025 14:39:23,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747233546,05/14/2025 14:39:06,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747233382,05/14/2025 14:36:22,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747233380,05/14/2025 14:36:20,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747232618,05/14/2025 14:23:38,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747232449,05/14/2025 14:20:49,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,backstage,raw.githubusercontent.com/backstage/backstage/master/packages/create-app/seed-yarn.lock,seed-yarn.lock,File
+1747232223,05/14/2025 14:17:03,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,backstage,raw.githubusercontent.com/backstage/backstage/master/docs/assets/headline.png,headline.png,File
+1747232223,05/14/2025 14:17:03,Atlan_Default Allow,policy,alert,Download,aayush.sarva@atlan.com,GitHub,backstage,raw.githubusercontent.com/backstage/backstage/master/docs/assets/header.png,header.png,File
+1747232171,05/14/2025 14:16:11,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747231760,05/14/2025 14:09:20,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747231448,05/14/2025 14:04:08,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747231447,05/14/2025 14:04:07,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747229946,05/14/2025 13:39:06,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747229944,05/14/2025 13:39:04,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747229944,05/14/2025 13:39:04,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747229528,05/14/2025 13:32:08,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747229527,05/14/2025 13:32:07,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747229526,05/14/2025 13:32:06,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747228805,05/14/2025 13:20:05,Atlan_Default Allow,policy,alert,Download,sushovan@atlan.com,GitHub,open-webui,raw.githubusercontent.com/open-webui/open-webui/main/demo.gif,demo.gif,File
+1747227975,05/14/2025 13:06:15,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747227946,05/14/2025 13:05:46,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747227829,05/14/2025 13:03:49,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747227754,05/14/2025 13:02:34,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747227752,05/14/2025 13:02:32,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747227607,05/14/2025 13:00:07,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747227605,05/14/2025 13:00:05,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747226567,05/14/2025 12:42:47,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747226566,05/14/2025 12:42:46,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.githubcopilot.com,,
+1747225776,05/14/2025 12:29:36,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747225775,05/14/2025 12:29:35,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747225686,05/14/2025 12:28:06,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747225685,05/14/2025 12:28:05,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747225684,05/14/2025 12:28:04,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747223802,05/14/2025 11:56:42,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,,productionresultssa0.blob.core.windows.net/actions-results/45440b88-9543-466e-a3aa-e88fb775977d/workflow-job-run-7d3187cb-7ac8-5c41-c4e8-892d47a83f31/logs/steps/step-logs-4dba9fc1-194c-5758-8737-f1eeb1ae1567.txt,step-logs-4dba9fc1-194c-5758-8737-f1eeb1ae1567.txt,File
+1747223799,05/14/2025 11:56:39,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747223798,05/14/2025 11:56:38,Atlan_Default Allow,policy,alert,Download,palak.garg@atlan.com,GitHub,pal-gar-at,github.com/pal-gar-at/desktop-tutorial.git/git-upload-pack,,File
+1747223775,05/14/2025 11:56:15,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,,productionresultssa0.blob.core.windows.net/actions-results/45440b88-9543-466e-a3aa-e88fb775977d/workflow-job-run-9827c284-3d7e-5b7c-8801-7a888cc8618a/logs/steps/step-logs-0156a161-1a9d-5864-00c5-5ec7b77cca07.txt,step-logs-0156a161-1a9d-5864-00c5-5ec7b77cca07.txt,File
+1747223765,05/14/2025 11:56:05,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747223761,05/14/2025 11:56:01,Atlan_Default Allow,policy,alert,Download,sankalp.wakodikar@atlan.com,GitHub,atlanhq,github.com/atlanhq/cloud-common.git/git-upload-pack,,File
+1747223685,05/14/2025 11:54:45,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747223426,05/14/2025 11:50:26,Atlan_Default Allow,policy,alert,Download,mahesh.thimmaiah@atlan.com,GitHub,homebrew,github.com/Homebrew/brew/git-upload-pack,,File
+1747223425,05/14/2025 11:50:25,Atlan_Default Allow,policy,alert,Download,mahesh.thimmaiah@atlan.com,GitHub,homebrew,github.com/Homebrew/brew/git-upload-pack,,File
+1747223085,05/14/2025 11:44:45,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747222690,05/14/2025 11:38:10,Atlan_Default Allow,policy,alert,Download,brandon.coates@atlan.com,GitHub,obsidianmd,raw.githubusercontent.com/obsidianmd/obsidian-releases/master/desktop-releases.json,desktop-releases.json,File
+1747222643,05/14/2025 11:37:23,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747222640,05/14/2025 11:37:20,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747222608,05/14/2025 11:36:48,Atlan_Default Allow,policy,alert,Download,christopher@atlan.com,GitHub,apple,objects.githubusercontent.com/github-production-release-asset-2e65be/745600847/c9282d79-d228-4d8b-87ad-10d625a7ae9b,updatePlugins.xml,File
+1747222173,05/14/2025 11:29:33,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747222033,05/14/2025 11:27:13,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
+1747222018,05/14/2025 11:26:58,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,api.individual.githubcopilot.com,,
+1747221901,05/14/2025 11:25:01,Atlan_Default Allow,policy,alert,Browse,prateek.mishra@atlan.com,GitHub Copilot,,telemetry.individual.githubcopilot.com,,
